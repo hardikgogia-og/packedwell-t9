@@ -39,36 +39,41 @@
 :root {
   color-scheme: light;
 
-  /* Premium luxury packaging palette */
-  --background: oklch(0.98 0.005 90);
-  --foreground: oklch(0.18 0.005 70);
+  /* PackedWell Luxury Cream + Black + Gold Palette */
 
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.18 0.005 70);
+  --background: oklch(0.96 0.01 90);
+  --foreground: oklch(0.16 0.005 60);
 
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.18 0.005 70);
+  --card: oklch(0.99 0.005 90);
+  --card-foreground: oklch(0.16 0.005 60);
 
-  --primary: oklch(0.55 0.12 75);
-  --primary-foreground: oklch(0.98 0.005 90);
+  --popover: oklch(0.99 0.005 90);
+  --popover-foreground: oklch(0.16 0.005 60);
 
-  --secondary: oklch(0.95 0.008 90);
-  --secondary-foreground: oklch(0.18 0.005 70);
+  /* Champagne Gold */
+  --primary: oklch(0.68 0.12 80);
+  --primary-foreground: oklch(0.12 0.005 60);
 
-  --muted: oklch(0.95 0.008 90);
+  /* Soft Cream */
+  --secondary: oklch(0.93 0.01 90);
+  --secondary-foreground: oklch(0.16 0.005 60);
+
+  --muted: oklch(0.93 0.01 90);
   --muted-foreground: oklch(0.45 0.01 80);
 
+  /* Gold Accent */
   --accent: oklch(0.75 0.12 80);
-  --accent-foreground: oklch(0.18 0.005 70);
+  --accent-foreground: oklch(0.12 0.005 60);
 
   --destructive: oklch(0.6 0.2 27);
 
-  --border: oklch(0.88 0.01 90);
-  --input: oklch(0.88 0.01 90);
+  /* Subtle borders */
+  --border: oklch(0.86 0.01 90);
+  --input: oklch(0.86 0.01 90);
   --ring: oklch(0.75 0.12 80);
 
   --gold: oklch(0.75 0.12 80);
-  --gold-muted: oklch(0.65 0.08 80);
+  --gold-muted: oklch(0.62 0.08 80);
 
   --radius: 0.5rem;
 }
