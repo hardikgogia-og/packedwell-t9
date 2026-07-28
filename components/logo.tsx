@@ -6,7 +6,7 @@ export function Logo({ className }: { className?: string }) {
       <img
         src="/images/packedwell-logo.png"
         alt="PackedWell Premium Packaging"
-        className="h-auto w-[80px] object-contain"
+        className="h-auto w-[70px] object-contain"
       />
     </div>
   )
