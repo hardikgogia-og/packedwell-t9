@@ -4,7 +4,7 @@ export function Logo({ className }: { className?: string }) {
   return (
     <span className={cn('flex items-center gap-2.5', className)}>
       <span className="flex h-9 w-9 items-center justify-center rounded-sm border border-gold/60 font-serif text-lg font-semibold text-gold">
-        import Image from "next/image"
+import Image from "public/image"
 import { cn } from "@/lib/utils"
 
 export function Logo({ className }: { className?: string }) {
