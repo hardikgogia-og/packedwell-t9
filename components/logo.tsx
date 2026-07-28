@@ -4,19 +4,15 @@ export function Logo({ className }: { className?: string }) {
   return (
     <span className={cn('flex items-center gap-2.5', className)}>
       <span className="flex h-9 w-9 items-center justify-center rounded-sm border border-gold/60 font-serif text-lg font-semibold text-gold">
-import Image from "public/image"
 import { cn } from "@/lib/utils"
 
 export function Logo({ className }: { className?: string }) {
   return (
     <div className={cn("flex items-center", className)}>
-      <Image
-        src="/packedwell-logo.png"
+      <img
+        src="/images/packedwell-logo.png"
         alt="PackedWell Premium Packaging"
-        width={220}
-        height={70}
         className="h-auto w-[180px] object-contain"
-        priority
       />
     </div>
   )
