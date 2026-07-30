@@ -65,7 +65,7 @@ export default function ManufacturingPage() {
           </ol>
         </div>
       </section>
-
+<InstagramReels />
       <CtaSection heading="Have a Packaging Project in Mind?" />
     </>
   )
