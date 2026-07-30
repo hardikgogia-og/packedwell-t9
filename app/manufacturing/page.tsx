@@ -5,6 +5,7 @@ import { CtaSection } from '@/components/cta-section'
 import { Reveal } from '@/components/reveal'
 import { SectionHeading } from '@/components/section-heading'
 import { manufacturingSteps } from '@/lib/site'
+import { InstagramReels } from '@/components/InstagramReels'
 
 export const metadata: Metadata = {
   title: 'Manufacturing Process | PackedWell',
