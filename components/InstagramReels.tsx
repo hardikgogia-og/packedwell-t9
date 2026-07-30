@@ -1,4 +1,4 @@
-export default function InstagramReels() {
+export function InstagramReels() {
   const reels = [
     "https://www.instagram.com/reel/DRbe_iBgVdl/",
     "https://www.instagram.com/reel/DbQt5jAh0ga/",
