@@ -1,3 +1,4 @@
+import { InstagramReels } from '@/components/home/instagram-reels'
 import { Hero } from '@/components/home/hero'
 import { AboutPreview } from '@/components/home/about-preview'
 import { Categories } from '@/components/home/categories'
