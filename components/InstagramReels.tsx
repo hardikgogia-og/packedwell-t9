@@ -1,8 +1,8 @@
 export default function InstagramReels() {
   const reels = [
-    "https://www.instagram.com/reel/REEL_ID_1/",
-    "https://www.instagram.com/reel/REEL_ID_2/",
-    "https://www.instagram.com/reel/REEL_ID_3/",
+    "https://www.instagram.com/reel/DRbe_iBgVdl/",
+    "https://www.instagram.com/reel/DbQt5jAh0ga/",
+    "https://www.instagram.com/reel/Da0OPR8hG5b/",
   ]
 
   return (
