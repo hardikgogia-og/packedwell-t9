@@ -5,7 +5,7 @@ export const site = {
   facility: '40,000 sq. ft.',
   phoneDisplay: '+91 70113 10430',
   phone: '917011310430',
-  email: 'hello@packedwell.com',
+  email: 'info@packedwell.com',
   whatsapp: 'https://wa.me/917011310430',
 }
 
